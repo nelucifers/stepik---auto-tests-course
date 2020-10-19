@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
 
-is README.md
+2. is README.md
